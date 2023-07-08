@@ -21,7 +21,7 @@ ext install ms-toolsai.jupyter
 ```
 ### Install Python dependencies 
 ```bash
-pip install -r requirements. txt
+pip install -r requirements.txt
 ```
 
 ### Run change_point.ipynb in VSCode or another environment that allows running Jupyter notebooks.
